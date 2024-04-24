@@ -1,0 +1,13 @@
+dependencies - bu loyiha effictiv ishlashi uchun kutubhona
+
+DevDependency - bu esa dasturchilar uchun loyiha loyihalashtirilayotganda yordam beradi
+
+scripts - (script)s ni ishlatish uchun package.json ichida scripts ni ichiga key value sifatida commandalar yozishimiz mumkin masala:
+ scripts{
+ "command": "node main.js"
+ }
+bu comanda main.js filini run qilib beradi
+
+main - bu yerda biz loyihaning asosiy yani main bolgan fileni nomini kiritamiz.
+
+license - bu Barcha huquqlar himoyalanganini bildiradi
